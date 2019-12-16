@@ -2,3 +2,4 @@
 TODO
 /slack8s-operator
 !vendor/**
+*.orig
