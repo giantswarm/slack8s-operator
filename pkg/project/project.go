@@ -2,10 +2,10 @@ package project
 
 var (
 	bundleVersion = "0.0.1"
-	description   = "The template-operator does something."
+	description   = "The slack8s-operator does something."
 	gitSHA        = "n/a"
-	name          = "template-operator"
-	source        = "https://github.com/giantswarm/template-operator"
+	name          = "slack8s-operator"
+	source        = "https://github.com/giantswarm/slack8s-operator"
 	version       = "n/a"
 )
 
