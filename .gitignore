@@ -1,4 +1,4 @@
 *.swp
 TODO
-/template-operator
+/slack8s-operator
 !vendor/**
