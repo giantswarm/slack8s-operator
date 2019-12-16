@@ -29,6 +29,7 @@ type Config struct {
 	Viper *viper.Viper
 }
 
+// Service struct
 type Service struct {
 	Version *version.Service
 
@@ -144,6 +145,7 @@ func New(config Config) (*Service, error) {
 	return s, nil
 }
 
+// Boot function
 func (s *Service) Boot(ctx context.Context) {
 	s.bootOnce.Do(func() {
 		go s.operatorCollector.Boot(ctx)
