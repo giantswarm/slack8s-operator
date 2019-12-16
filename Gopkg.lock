@@ -42,7 +42,7 @@
     "reference",
   ]
   pruneopts = "UT"
-  revision = "f18781257ec94f25301f1f546b2e4b90612295e7"
+  revision = "a8371794149d1d95f1e846744b05c87f2f825e5a"
 
 [[projects]]
   digest = "1:ac425d784b13d49b37a5bbed3ce022677f8f3073b216f05d6adcb9303e27fa0f"
@@ -117,7 +117,7 @@
     "k8srestconfig",
   ]
   pruneopts = "UT"
-  revision = "6cb127468cd6b30eaf8030b875f796e34b481938"
+  revision = "f75fead2ae064a2ae20a117cc1cd1d2f6d050641"
 
 [[projects]]
   branch = "master"
